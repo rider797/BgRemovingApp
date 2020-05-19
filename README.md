@@ -59,6 +59,5 @@ This repository contains a complete example of the SDK.
 Download the project and compile with your [API-KEY](https://www.remove.bg/profile#api-key).
 
 ### Author
-
-theapache64
+Santhosh.M
 
